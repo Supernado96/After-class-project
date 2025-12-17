@@ -1,0 +1,6 @@
+a = input("Enter your birthday: ")
+b = input("Enter your birthday: ")
+c = input("Enter your birthday: ")
+d = input("Enter your birthday: ")
+e = input("Enter your birthday: ")
+print(f"Your inputted random birthdays are {a, b, c, d, e}")
